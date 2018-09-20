@@ -3,7 +3,7 @@ from .models import Event, Comment
 from django.utils.timezone import localdate
 from django.core.paginator import Paginator, InvalidPage
 from django.http import HttpResponse
-from django.views.defauls import bad_request, server_error
+from django.views.defaults import bad_request, server_error
 from datetime import datetime, timedelta
 
 ITEMS_PER_PAGE = 5

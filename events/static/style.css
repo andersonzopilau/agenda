@@ -1,8 +1,9 @@
 .div-background{
     background-image: url('http://tecnologia.culturamix.com/blog/wp-content/gallery/como-tirar-fotos-panoramicas-6/Como-Tirar-Fotos-Panoramicas-16.jpg');
-    background-position: buttom;
+    background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
+    text-shadow: 0px 0px 16px #000, 0px 0px 64px #00f;
 
 }
