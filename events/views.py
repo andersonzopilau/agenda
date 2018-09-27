@@ -5,7 +5,6 @@ from django.utils.timezone import localdate
 from django.views.defaults import bad_request, server_error
 from .models import Event, Comment
 from .forms import EventForm, CommentForm
-
 from datetime import datetime, timedelta
 
 ITEMS_PER_PAGE = 5
